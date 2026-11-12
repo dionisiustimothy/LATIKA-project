@@ -4,7 +4,7 @@ body {
     color: #306167; /*Warna turquoise gelap*/
 }
 
-.kartu-profil {
+.kartu-pelajar {
     width: 300px;
     margin: 50px auto;
     padding: 20px;
@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 
-.kartu-profil img {
+.kartu-pelajar img {
     width: 150px;
     border-radius: 50%;
 }
