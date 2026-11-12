@@ -1,1 +1,0 @@
-# LATIKA-project
