@@ -1,0 +1,20 @@
+body {
+    background-color: #FFFFEO; /* Warna kuning cerah */
+    font-family: Brush Script MT, Cursive; /*Jenis font yang bersih dan muda dibaca*/
+    color: #306167; /*Warna turquoise gelap*/
+}
+
+kartu-profil {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    text-align: center;
+}
+
+kartu-profil img {
+    width: 150px;
+    border-radius: 50%;
+}
